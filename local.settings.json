@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+
+    "AKAMAI_HOST": "",
+    "AKAMAI_CLIENT_TOKEN": "",
+    "AKAMAI_CLIENT_SECRET": "",
+    "AKAMAI_ACCESS_TOKEN": "",
+    "AKAMAI_CONFIG_IDS": "",
+    "AKAMAI_BATCH_SIZE": "600",
+
+    "NR_LICENSE_KEY": "",
+    "NR_LOGS_ENDPOINT": "https://log-api.newrelic.com/log/v1",
+    "NR_BATCH_SIZE": "500",
+
+    "FILTER_DROP_FIELDS": "",
+    "FILTER_TRUNCATE_FIELDS": "{}"
+  }
+}
